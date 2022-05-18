@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d51d89e4.css",
+    "main.js": "/static/js/main.14df3ad6.js",
+    "static/media/NFTs.png": "/static/media/NFTs.7159b8745de44380fab2.png",
+    "static/media/nft-about.png": "/static/media/nft-about.216cc736b4fb798721bd.png",
+    "static/media/nfta-banner.png": "/static/media/nfta-banner.2a6139bb2ad567a5c177.png",
+    "static/media/Roadmap_q1_pc.png": "/static/media/Roadmap_q1_pc.ee392ee16ce70fecb945.png",
+    "static/media/Roadmap_q3_pc.png": "/static/media/Roadmap_q3_pc.e927385b515193936fc0.png",
+    "static/media/opensea.png": "/static/media/opensea.55292d3a58fe690fd79d.png",
+    "static/media/Roadmap-q-1.png": "/static/media/Roadmap-q-1.6968541dd6212f04cec1.png",
+    "static/media/nft-logo.png": "/static/media/nft-logo.4d11d7941ac094d07f54.png",
+    "static/media/Roadmap-q-3.png": "/static/media/Roadmap-q-3.458fb99b27e5952b41fe.png",
+    "static/media/capa3-2.png": "/static/media/capa3-2.bb9bb65cf71b335333f8.png",
+    "static/media/capa4-1.png": "/static/media/capa4-1.19a7029b79b2cbb32a69.png",
+    "static/media/capa2.png": "/static/media/capa2.9961db9f41adc6578177.png",
+    "static/media/capa3-1.png": "/static/media/capa3-1.9197e6dae2289362d57b.png",
+    "static/media/capa1.png": "/static/media/capa1.cd00f1676eab63030b8a.png",
+    "static/media/rarible.png": "/static/media/rarible.6d204cb520bde0d80f2d.png",
+    "static/media/capa2Recorte.png": "/static/media/capa2Recorte.4e1eb53deeb535f7f46e.png",
+    "static/media/playVideo.svg": "/static/media/playVideo.6f4ba77714f0c05299335f4579829fc5.svg",
+    "static/media/instagram.svg": "/static/media/instagram.5d4de117c1682432ebc93db3af8838b7.svg",
+    "static/media/telegram.svg": "/static/media/telegram.7bad69de4679d583abb2850469b117a7.svg",
+    "index.html": "/index.html",
+    "static/media/twitter.svg": "/static/media/twitter.af1c01c2b0558acfbd863decebf8ba8b.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.cbea47e0ccaaa28763c12e727972e49a.svg",
+    "static/media/twitch.svg": "/static/media/twitch.2a9847de215a2878eb632947cf6ec328.svg",
+    "static/media/arrow.svg": "/static/media/arrow.6cf2c3a3440446847c026af0c1c66d95.svg",
+    "main.d51d89e4.css.map": "/static/css/main.d51d89e4.css.map",
+    "main.14df3ad6.js.map": "/static/js/main.14df3ad6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d51d89e4.css",
+    "static/js/main.14df3ad6.js"
+  ]
+}
