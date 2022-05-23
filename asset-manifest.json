@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d51d89e4.css",
-    "main.js": "/static/js/main.1ad8258d.js",
+    "main.css": "/static/css/main.11fd4077.css",
+    "main.js": "/static/js/main.ce2366b4.js",
     "static/media/NFTs.png": "/static/media/NFTs.7159b8745de44380fab2.png",
     "static/media/nft-about.png": "/static/media/nft-about.216cc736b4fb798721bd.png",
     "static/media/nfta-banner.png": "/static/media/nfta-banner.2a6139bb2ad567a5c177.png",
@@ -16,6 +16,7 @@
     "static/media/capa2.png": "/static/media/capa2.9961db9f41adc6578177.png",
     "static/media/capa3-1.png": "/static/media/capa3-1.9197e6dae2289362d57b.png",
     "static/media/capa1.png": "/static/media/capa1.cd00f1676eab63030b8a.png",
+    "static/media/popUp.png": "/static/media/popUp.fe7b0ec91ec56c00a510.png",
     "static/media/rarible.png": "/static/media/rarible.6d204cb520bde0d80f2d.png",
     "static/media/capa2Recorte.png": "/static/media/capa2Recorte.4e1eb53deeb535f7f46e.png",
     "static/media/playVideo.svg": "/static/media/playVideo.6f4ba77714f0c05299335f4579829fc5.svg",
@@ -26,11 +27,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.cbea47e0ccaaa28763c12e727972e49a.svg",
     "static/media/twitch.svg": "/static/media/twitch.2a9847de215a2878eb632947cf6ec328.svg",
     "static/media/arrow.svg": "/static/media/arrow.6cf2c3a3440446847c026af0c1c66d95.svg",
-    "main.d51d89e4.css.map": "/static/css/main.d51d89e4.css.map",
-    "main.1ad8258d.js.map": "/static/js/main.1ad8258d.js.map"
+    "main.11fd4077.css.map": "/static/css/main.11fd4077.css.map",
+    "main.ce2366b4.js.map": "/static/js/main.ce2366b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.d51d89e4.css",
-    "static/js/main.1ad8258d.js"
+    "static/css/main.11fd4077.css",
+    "static/js/main.ce2366b4.js"
   ]
 }
